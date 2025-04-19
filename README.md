@@ -6,6 +6,7 @@
 **huminted/huminted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Eating
+As a seasoned Senior Android Development Engineer, I specialize in enhancing code reusability and maintainability
+through modular refactoring and SDK development. I am passionate about exploring emerging technologies like Kotlin
+Multi-Platform and Jetpack. Looking forward, I aspire to be a leading technical expert in mobile application architecture
+and cross-platform development, delivering high-standard UI and contributing to exceptional UX.
