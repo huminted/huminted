@@ -4,7 +4,7 @@
 -->
 
 
-# 👋 Hi there, I'm a Senior Android Development Engineer
+# ✈️ Hi , I'm an Android Development Engineer
 
 👨‍💻 **Specialized in Android development** with a focus on code reusability and maintainability  
 🔧 Expert in **modular refactoring** and **SDK development** for scalable solutions  
