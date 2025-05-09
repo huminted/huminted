@@ -12,7 +12,6 @@
 🎯 Aspiring to be a **technical expert in mobile architecture and cross-platform development**  
 🎨 Passionate about delivering **high-quality UI** and enhancing **UX**  
 🧠 Lifelong learner, always up for new challenges
-📫 Let's connect and build something amazing together!
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=huminted&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
